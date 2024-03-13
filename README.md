@@ -1,1 +1,2 @@
 # DiceRolling-Simulator
+This Python script simulates rolling dice using the random library. It begins by prompting the user for the number of dice and the number of sides per die. After receiving the input, it generates random numbers within the specified range for each die using the random.randint() function. The results are then printed to the console. The program offers an option to roll the dice again or exit.
